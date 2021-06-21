@@ -1,0 +1,16 @@
+C:\Users\Caique\Documents\c#-dio\dotflix\bin\Debug\net5.0\dotflix.exe
+C:\Users\Caique\Documents\c#-dio\dotflix\bin\Debug\net5.0\dotflix.deps.json
+C:\Users\Caique\Documents\c#-dio\dotflix\bin\Debug\net5.0\dotflix.runtimeconfig.json
+C:\Users\Caique\Documents\c#-dio\dotflix\bin\Debug\net5.0\dotflix.runtimeconfig.dev.json
+C:\Users\Caique\Documents\c#-dio\dotflix\bin\Debug\net5.0\dotflix.dll
+C:\Users\Caique\Documents\c#-dio\dotflix\bin\Debug\net5.0\ref\dotflix.dll
+C:\Users\Caique\Documents\c#-dio\dotflix\bin\Debug\net5.0\dotflix.pdb
+C:\Users\Caique\Documents\c#-dio\dotflix\obj\Debug\net5.0\dotflix.csprojAssemblyReference.cache
+C:\Users\Caique\Documents\c#-dio\dotflix\obj\Debug\net5.0\dotflix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caique\Documents\c#-dio\dotflix\obj\Debug\net5.0\dotflix.AssemblyInfoInputs.cache
+C:\Users\Caique\Documents\c#-dio\dotflix\obj\Debug\net5.0\dotflix.AssemblyInfo.cs
+C:\Users\Caique\Documents\c#-dio\dotflix\obj\Debug\net5.0\dotflix.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Documents\c#-dio\dotflix\obj\Debug\net5.0\dotflix.dll
+C:\Users\Caique\Documents\c#-dio\dotflix\obj\Debug\net5.0\ref\dotflix.dll
+C:\Users\Caique\Documents\c#-dio\dotflix\obj\Debug\net5.0\dotflix.pdb
+C:\Users\Caique\Documents\c#-dio\dotflix\obj\Debug\net5.0\dotflix.genruntimeconfig.cache
